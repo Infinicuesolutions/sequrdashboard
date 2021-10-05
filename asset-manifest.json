@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sequrdashboard/static/css/main.8e8bcea8.chunk.css",
+    "main.js": "/sequrdashboard/static/js/main.c325d03b.chunk.js",
+    "main.js.map": "/sequrdashboard/static/js/main.c325d03b.chunk.js.map",
+    "runtime-main.js": "/sequrdashboard/static/js/runtime-main.367843f5.js",
+    "runtime-main.js.map": "/sequrdashboard/static/js/runtime-main.367843f5.js.map",
+    "static/css/2.1881a404.chunk.css": "/sequrdashboard/static/css/2.1881a404.chunk.css",
+    "static/js/2.c64e39d3.chunk.js": "/sequrdashboard/static/js/2.c64e39d3.chunk.js",
+    "static/js/2.c64e39d3.chunk.js.map": "/sequrdashboard/static/js/2.c64e39d3.chunk.js.map",
+    "index.html": "/sequrdashboard/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/sequrdashboard/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.8e8bcea8.chunk.css.map": "/sequrdashboard/static/css/main.8e8bcea8.chunk.css.map",
+    "static/js/2.c64e39d3.chunk.js.LICENSE.txt": "/sequrdashboard/static/js/2.c64e39d3.chunk.js.LICENSE.txt",
+    "static/js/main.c325d03b.chunk.js.LICENSE.txt": "/sequrdashboard/static/js/main.c325d03b.chunk.js.LICENSE.txt",
+    "static/media/marc.e8607287.jpg": "/sequrdashboard/static/media/marc.e8607287.jpg",
+    "static/media/salvus-R_logo.54958d58.png": "/sequrdashboard/static/media/salvus-R_logo.54958d58.png",
+    "static/media/sidebar-1.0a127c58.jpg": "/sequrdashboard/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-2.22f68ba5.jpg": "/sequrdashboard/static/media/sidebar-2.22f68ba5.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/sequrdashboard/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.dd4b5581.jpg": "/sequrdashboard/static/media/sidebar-4.dd4b5581.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367843f5.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.c64e39d3.chunk.js",
+    "static/css/main.8e8bcea8.chunk.css",
+    "static/js/main.c325d03b.chunk.js"
+  ]
+}
